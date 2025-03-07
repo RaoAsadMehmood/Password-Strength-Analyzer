@@ -69,8 +69,8 @@ Add multi-language support for global users.
 Feel free to fork this repo, submit pull requests, or open issues for bugs and feature requests. Let’s make PassGuard even better together!
 
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 Author
 Rao Asad Mehmood
